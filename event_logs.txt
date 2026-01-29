@@ -1,0 +1,78 @@
+[10:32:35] Damage: 0%, Temp: 24.6°C, Flood: 0m
+  Event: No events yet
+[10:32:40] Damage: 10.4%, Temp: 38.8°C, Flood: 0m
+  Event: [10:32:40] Fire outbreak! Damage +12, Temp +14.3°C
+[10:32:45] Damage: 9.1%, Temp: 38.6°C, Flood: 0m
+  Event: [10:32:40] Fire outbreak! Damage +12, Temp +14.3°C
+[10:32:50] Damage: 8.5%, Temp: 38.4°C, Flood: 0m
+  Event: [10:32:40] Fire outbreak! Damage +12, Temp +14.3°C
+[10:32:55] Damage: 7.4%, Temp: 38.1°C, Flood: 0m
+  Event: [10:32:40] Fire outbreak! Damage +12, Temp +14.3°C
+[10:33:00] Damage: 6.5%, Temp: 38.0°C, Flood: 0m
+  Event: [10:32:40] Fire outbreak! Damage +12, Temp +14.3°C
+[10:33:05] Damage: 5.6%, Temp: 37.5°C, Flood: 0m
+  Event: [10:32:40] Fire outbreak! Damage +12, Temp +14.3°C
+[10:33:10] Damage: 3.8%, Temp: 37.4°C, Flood: 0m
+  Event: [10:32:40] Fire outbreak! Damage +12, Temp +14.3°C
+[10:33:15] Damage: 13.0%, Temp: 45.1°C, Flood: 0m
+  Event: [10:32:40] Fire outbreak! Damage +12, Temp +14.3°C
+  Event: [10:33:15] Fire outbreak! Damage +11, Temp +20.2°C
+[10:33:20] Damage: 11.2%, Temp: 44.8°C, Flood: 0m
+  Event: [10:32:40] Fire outbreak! Damage +12, Temp +14.3°C
+  Event: [10:33:15] Fire outbreak! Damage +11, Temp +20.2°C
+[10:33:25] Damage: 9.3%, Temp: 44.6°C, Flood: 1.6m
+  Event: [10:32:40] Fire outbreak! Damage +12, Temp +14.3°C
+  Event: [10:33:15] Fire outbreak! Damage +11, Temp +20.2°C
+  Event: [10:33:25] Flood rising! Level +1.6m → 1.6m
+[10:33:30] Damage: 58.4%, Temp: 44.2°C, Flood: 1.6m
+  Event: [10:33:15] Fire outbreak! Damage +11, Temp +20.2°C
+  Event: [10:33:25] Flood rising! Level +1.6m → 1.6m
+  Event: [10:33:30] Earthquake! Damage +50 → 59.289916547430266
+[10:33:35] Damage: 56.9%, Temp: 43.9°C, Flood: 1.6m
+  Event: [10:33:15] Fire outbreak! Damage +11, Temp +20.2°C
+  Event: [10:33:25] Flood rising! Level +1.6m → 1.6m
+  Event: [10:33:30] Earthquake! Damage +50 → 59.289916547430266
+[10:33:40] Damage: 56.0%, Temp: 43.7°C, Flood: 1.6m
+  Event: [10:33:15] Fire outbreak! Damage +11, Temp +20.2°C
+  Event: [10:33:25] Flood rising! Level +1.6m → 1.6m
+  Event: [10:33:30] Earthquake! Damage +50 → 59.289916547430266
+[10:33:45] Damage: 54.1%, Temp: 43.5°C, Flood: 2.5m
+  Event: [10:33:25] Flood rising! Level +1.6m → 1.6m
+  Event: [10:33:30] Earthquake! Damage +50 → 59.289916547430266
+  Event: [10:33:45] Flood rising! Level +0.9m → 2.5m
+[10:33:50] Damage: 68.3%, Temp: 58.3°C, Flood: 2.5m
+  Event: [10:33:30] Earthquake! Damage +50 → 59.289916547430266
+  Event: [10:33:45] Flood rising! Level +0.9m → 2.5m
+  Event: [10:33:50] Fire outbreak! Damage +16, Temp +33.5°C
+[10:33:55] Damage: 66.9%, Temp: 58.0°C, Flood: 2.5m
+  Event: [10:33:30] Earthquake! Damage +50 → 59.289916547430266
+  Event: [10:33:45] Flood rising! Level +0.9m → 2.5m
+  Event: [10:33:50] Fire outbreak! Damage +16, Temp +33.5°C
+[10:34:00] Damage: 66.3%, Temp: 57.8°C, Flood: 2.5m
+  Event: [10:33:30] Earthquake! Damage +50 → 59.289916547430266
+  Event: [10:33:45] Flood rising! Level +0.9m → 2.5m
+  Event: [10:33:50] Fire outbreak! Damage +16, Temp +33.5°C
+[10:34:05] Damage: 64.3%, Temp: 57.4°C, Flood: 2.5m
+  Event: [10:33:30] Earthquake! Damage +50 → 59.289916547430266
+  Event: [10:33:45] Flood rising! Level +0.9m → 2.5m
+  Event: [10:33:50] Fire outbreak! Damage +16, Temp +33.5°C
+[10:34:10] Damage: 63.7%, Temp: 57.1°C, Flood: 2.5m
+  Event: [10:33:30] Earthquake! Damage +50 → 59.289916547430266
+  Event: [10:33:45] Flood rising! Level +0.9m → 2.5m
+  Event: [10:33:50] Fire outbreak! Damage +16, Temp +33.5°C
+[10:34:15] Damage: 61.9%, Temp: 56.7°C, Flood: 2.5m
+  Event: [10:33:30] Earthquake! Damage +50 → 59.289916547430266
+  Event: [10:33:45] Flood rising! Level +0.9m → 2.5m
+  Event: [10:33:50] Fire outbreak! Damage +16, Temp +33.5°C
+[10:34:20] Damage: 60.0%, Temp: 56.5°C, Flood: 2.5m
+  Event: [10:33:30] Earthquake! Damage +50 → 59.289916547430266
+  Event: [10:33:45] Flood rising! Level +0.9m → 2.5m
+  Event: [10:33:50] Fire outbreak! Damage +16, Temp +33.5°C
+[10:34:25] Damage: 59.5%, Temp: 56.0°C, Flood: 2.5m
+  Event: [10:33:30] Earthquake! Damage +50 → 59.289916547430266
+  Event: [10:33:45] Flood rising! Level +0.9m → 2.5m
+  Event: [10:33:50] Fire outbreak! Damage +16, Temp +33.5°C
+[10:34:30] Damage: 57.5%, Temp: 55.6°C, Flood: 2.5m
+  Event: [10:33:30] Earthquake! Damage +50 → 59.289916547430266
+  Event: [10:33:45] Flood rising! Level +0.9m → 2.5m
+  Event: [10:33:50] Fire outbreak! Damage +16, Temp +33.5°C
